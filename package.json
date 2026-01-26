@@ -1,0 +1,14 @@
+{
+  "name": "ghcc-flow",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "biome:fix": "biome check --write"
+  },
+  "keywords": [],
+  "author": "soukadao",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@biomejs/biome": "2.3.12"
+  }
+}
