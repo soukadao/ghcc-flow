@@ -24,3 +24,7 @@ pnpm biome:fix
 ```
 
 上記コマンドは `biome check --write` を実行し、問題の自動修正を試みます。
+
+## 利用可能なスクリプト
+
+- `pnpm biome:fix`: `biome check --write` を実行します。
